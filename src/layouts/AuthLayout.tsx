@@ -6,7 +6,7 @@ export default function AuthLayout(){
      <>
       <div className = 'bg-slate-800 min-h-screen'>
         <div className = 'max-w-lg mx-auto pt-10 px-5 '>
-          <img src="./los_del_sur.jpg" alt="logo" />
+          <img src="/social/los_del_sur.jpg" alt="logo" />
 
           <div className = 'py-10'>
              <Outlet/>
